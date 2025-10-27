@@ -3,7 +3,6 @@
 > **SEAMLESS BY DESIGN** - Professional ground handling solutions for the Maldives
 
 [![Website](https://img.shields.io/badge/Website-Live-00ffff?style=for-the-badge)](https://jethavens.mv)
-[![License](https://img.shields.io/badge/License-MIT-00ffff?style=for-the-badge)](LICENSE)
 
 ## 🌟 Overview
 
